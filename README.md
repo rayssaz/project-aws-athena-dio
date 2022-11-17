@@ -1,5 +1,6 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+# Projeto Amazon Athena
+
+Repositório utilizado para explorar o SQL em uma ferramenta de BigData totalmente gerenciada na AWS, o Amazon Athena. Essa ferramenta permite a visualização de gráficos interativos e a aplicação de filtros para facilitar a interpretação. Para realizar a prática, foram realizadas análises demográficas do dataset de população do Brasil.
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
