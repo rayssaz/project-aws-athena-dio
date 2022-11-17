@@ -1,6 +1,6 @@
 # Projeto Amazon Athena
 
-Repositório utilizado para explorar o SQL em uma ferramenta de BigData totalmente gerenciada na AWS, o Amazon Athena. Essa ferramenta permite a visualização de gráficos interativos e a aplicação de filtros para facilitar a interpretação. Para realizar a prática, foram realizadas análises demográficas do dataset de população do Brasil.
+Repositório utilizado para explorar o SQL em uma ferramenta de BigData totalmente gerenciada na AWS, o Amazon Athena. Para a visualização dos gráficos e aplicação de filtros, foi usada a ferramenta Amazon Quicksight, a qual facilitou a interpretação. Foi usado o dataset de população do Brasil para realizar as análises demográficas.
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
